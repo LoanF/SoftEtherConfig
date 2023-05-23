@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftEtherConfiguration", "SoftEtherConfiguration.csproj", "{88D7B171-FA24-40AB-86E7-B4D711D8509E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftEtherConfigurationForm", "..\SoftEtherConfigurationForm\SoftEtherConfigurationForm.csproj", "{772C1D23-A326-4CBB-BA7B-82781F52B0ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88D7B171-FA24-40AB-86E7-B4D711D8509E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D7B171-FA24-40AB-86E7-B4D711D8509E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D7B171-FA24-40AB-86E7-B4D711D8509E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D7B171-FA24-40AB-86E7-B4D711D8509E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{772C1D23-A326-4CBB-BA7B-82781F52B0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772C1D23-A326-4CBB-BA7B-82781F52B0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772C1D23-A326-4CBB-BA7B-82781F52B0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772C1D23-A326-4CBB-BA7B-82781F52B0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E64676A-B632-42E7-BB74-7087746F2C3C}
+	EndGlobalSection
+EndGlobal
